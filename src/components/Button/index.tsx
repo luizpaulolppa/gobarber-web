@@ -1,5 +1,4 @@
 import React, { ButtonHTMLAttributes } from 'react';
-import Button from '../Input';
 
 import { Container } from './styles';
 
